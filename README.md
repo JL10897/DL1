@@ -25,7 +25,7 @@ pip install -r requirements.txt
 ```
 
 ### 3️⃣ (Optional) Download Pre-trained Weights
-best_model_xwg1cm8l.pth contain the trained model
+  best_model_xwg1cm8l.pth contain the trained model
 ---
 
 ## 🏋️‍♂️ Training the Model
