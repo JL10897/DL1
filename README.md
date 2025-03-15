@@ -17,6 +17,7 @@ This repository contains an implementation of the **ResNet (Residual Network)** 
 ```sh
 git clone https://github.com/JL10897/DL1.git
 cd DL1
+Jupyter notebook
 ```
 
 ## 2️⃣ Install Dependencies
