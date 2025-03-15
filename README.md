@@ -32,22 +32,6 @@ best_model_xwg1cm8l.pth contain the trained model
 Train the ResNet model on a dataset (default: CIFAR-10):
 ---
 
-## 📊 Evaluating the Model
-Evaluate the trained model on a test dataset:
-```sh
-python scripts/evaluate.py --model checkpoints/resnet50.pth --data_path ./dataset/test/
-```
-
----
-
-## 🖼️ Running Inference
-Make predictions on a new image:
-```sh
-python scripts/infer.py --model checkpoints/resnet50.pth --image sample.jpg
-```
-
----
-
 ## 📖 Model Architecture
 The ResNet model follows the original paper by **He et al., 2015** (*Deep Residual Learning for Image Recognition*). The key innovation is the **residual learning framework**, where identity mappings (skip connections) enable training deeper networks effectively.
 
