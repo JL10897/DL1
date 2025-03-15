@@ -15,8 +15,8 @@ This repository contains an implementation of the **ResNet (Residual Network)** 
 
 ### 1️⃣ Clone the Repository
 ```sh
-git clone https://github.com/your-username/resnet-model.git
-cd resnet-model
+git clone https://github.com/JL10897/DL1.git
+cd DL1
 ```
 
 ### 2️⃣ Install Dependencies
