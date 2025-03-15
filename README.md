@@ -25,18 +25,11 @@ pip install -r requirements.txt
 ```
 
 ### 3️⃣ (Optional) Download Pre-trained Weights
-Pre-trained models can be downloaded from [PyTorch Model Zoo](https://pytorch.org/vision/stable/models.html) and placed in the `checkpoints/` directory.
-
+best_model_xwg1cm8l.pth contain the trained model
 ---
 
 ## 🏋️‍♂️ Training the Model
 Train the ResNet model on a dataset (default: CIFAR-10):
-```sh
-python scripts/train.py --epochs 50 --batch_size 32 --lr 0.001 --model resnet50
-```
-
-To train on a custom dataset, update `config.yaml` or provide the `--data_path` argument.
-
 ---
 
 ## 📊 Evaluating the Model
