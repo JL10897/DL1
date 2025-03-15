@@ -19,7 +19,7 @@ git clone https://github.com/JL10897/DL1.git
 cd DL1
 ```
 
-### 2️⃣ Install Dependencies
+## 2️⃣ Install Dependencies
 ```sh
 pip install -r requirements.txt
 ```
@@ -39,7 +39,7 @@ The ResNet model follows the original paper by **He et al., 2015** (*Deep Residu
 |----------|-------|------------|
 | ResNet-18 | 18  | 2.8M |
 | ResNet-34 | 34  | 3.85M |
-| ResNet-t29 | 50  | 4.78M |
+| ResNet-t29 | 29  | 4.78M |
 
 ---
 
